@@ -1,8 +1,8 @@
 ### Gameplay instructions
 
-A, D - move
-W - jump
-X - shoot to deaciate drone
+-   A, D - move
+-   W - jump
+-   X - shoot to deactivate drone
 
 Collect points, deactivate drones and reach the portal to finish the level.
 Be careful not to fall in the gaps.
