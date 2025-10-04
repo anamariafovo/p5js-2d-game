@@ -8,8 +8,12 @@ Collect points, deactivate drones and reach the portal to finish the level.
 Be careful not to fall in the gaps.
 
 ![Robot standing on a platform](images/platform.png)
+
+Deactivated drone:
 ![Deactivated drone](images/drone_deactivated.png)
-![Robot standing on a platform](images/portal.png)
+
+Portal reached:
+![Portal is reached](images/portal.png)
 
 ### How to run
 
